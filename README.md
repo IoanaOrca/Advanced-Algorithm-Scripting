@@ -1,6 +1,6 @@
 # Advanced-Algorithm-Scripting
 
-* Validate US Telephone Numbers
+*Validate US Telephone Numbers
 https://www.freecodecamp.org/challenges/validate-us-telephone-numbers
 
 *Record Collection
